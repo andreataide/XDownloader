@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Credentials and local configuration
+.env
+.env.*
+cookies*.txt
+*cookies*.sqlite*
+Cookies*
+Local State
+.session/
+.agents/
+.aws/
+.codex/
+# Downloads and logs
+Downloads/
+downloads/
+*.mp4
+*.webm
+*.mkv
+*.part
+*.ytdl
+*.log
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
